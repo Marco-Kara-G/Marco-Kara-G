@@ -32,5 +32,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 
-###My stats:
+### My stats: 📈
 <img src="https://github-readme-stats.vercel.app/api?username=Marco-Kara-G&show_icons=true&title_color=e6dbc5&icon_color=e6dbc5&text_color=e6dbc5&bg_color=010409">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-Kara-G&theme=buefy&layout=compact&bg_color=010409&title_color=e6dbc5&text_color=e6dbc5">
